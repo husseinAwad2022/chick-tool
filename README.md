@@ -1,5 +1,4 @@
-# chick-tool
-# DiffTool - Word-Level Text Difference Visualizer
+# ChickTool - Word-Level Text Difference Visualizer
 
 ## 📌 Overview
 
