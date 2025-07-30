@@ -55,7 +55,4 @@ It is useful for comparing versions of documents or tracking changes in text con
 3. Run tests:
    ```bash
    python UnitTest.py
-
-
-
    
