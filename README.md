@@ -9,6 +9,8 @@ This Python application compares the **word-level differences** between two text
 
 It is useful for comparing versions of documents or tracking changes in text content.
 
+<img width="604" height="377" alt="Image" src="https://github.com/user-attachments/assets/6733470e-f79d-4af0-9451-58715f816773" />
+
 ---
 
 ## 🔧 What This App/Script Does
